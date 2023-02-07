@@ -1,4 +1,5 @@
 alert("Bienvenido");
+
 // const nComisión = 48655;
 
 // let ingreso = parseInt(prompt("Ingrese el numero de comisión"));
